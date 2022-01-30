@@ -1,0 +1,1 @@
+The backups are automatically stored in this directory.
